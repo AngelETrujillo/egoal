@@ -1,0 +1,107 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+    
+    <!-- Favicons -->
+    <link href="~/Assets/img/favicon.png" rel="icon">
+    <link href="~/Assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+    <link href="~/Assets/fontawesome-free-5.10.1-web/fontawesome-free-5.10.1-web/css/all.css" rel="stylesheet" />
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Poppins:300,400,500,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Basic|Gruppo&display=swap" rel="stylesheet">
+
+    <!-- Bootstrap CSS File -->
+    <link href="~/Assets/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Libraries CSS Files -->
+    <link href="~/Assets/lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+   
+    <link href="~/Assets/lib/animate/animate.min.css" rel="stylesheet">
+
+    <!-- Main Stylesheet File -->    
+    <link href="~/Assets/css/style.css" rel="stylesheet" />
+    <link href="~/Assets/css/MisEstilos.css" rel="stylesheet" />
+
+</head>
+<body>
+
+    <!--==========================
+    Header
+    ============================-->
+    <header id="header">
+        <div class="container">
+           
+            <div id="logo" class="pull-left">
+                
+                <a href="#hero">
+                    @*<img src="~/Assets/img/logo.png" />*@
+                    <div class="marca">Colibri</div>    
+                </a>
+                <!-- Uncomment below if you prefer to use a text logo -->
+                <!--<h1><a href="#hero">Regna</a></h1>-->
+            </div>
+
+            <nav id="nav-menu-container">
+                <ul class="nav-menu">
+                    <li class="menu-active"><a href="#hero">Home</a></li>
+                    <li><a href="#about">Nosotros</a></li>
+                    <li><a href="#services">Servicios</a></li>
+                    <li><a href="#portfolio">Portafolio</a></li>
+                    <li><a href="#team">Equipo</a></li>                    
+                    <li><a href="#contact">Contacto</a></li>
+                </ul>
+            </nav><!-- #nav-menu-container -->
+        </div>
+    </header><!-- #header -->
+
+    @RenderBody()
+    <hr />
+    <!--==========================
+        Footer
+    ============================-->
+    <footer id="footer">
+        <div class="footer-top">
+            <div class="container">
+
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="copyright">
+                &copy; Copyright <strong>Regna</strong>. All Rights Reserved
+            </div>
+        </div>
+    </footer><!-- #footer -->
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+
+    <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
+
+    <!-- JavaScript Libraries -->
+    <script src="~/Assets/lib/jquery/jquery.min.js"></script>
+    <script src="~/Assets/lib/jquery/jquery-migrate.min.js"></script>
+    <script src="~/Assets/lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="~/Assets/lib/easing/easing.min.js"></script>
+    <script src="~/Assets/lib/wow/wow.min.js"></script>
+    <script src="~/Assets/lib/waypoints/waypoints.min.js"></script>
+    <script src="~/Assets/lib/counterup/counterup.min.js"></script>
+    <script src="~/Assets/lib/superfish/hoverIntent.js"></script>
+    <script src="~/Assets/lib/superfish/superfish.min.js"></script>
+
+    <!-- Contact Form JavaScript File -->
+    <script src="~/Assets/contactform/contactform.js"></script>
+
+    <!-- Template Main Javascript File -->
+    <script src="~/Assets/js/main.js"></script>
+
+</body>
+</html>

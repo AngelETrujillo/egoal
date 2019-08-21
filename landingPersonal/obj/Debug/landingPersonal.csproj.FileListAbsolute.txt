@@ -1,0 +1,110 @@
+C:\Users\angel\Documents\Portafolio\landingPersonal\landingPersonal\bin\landingPersonal.dll.config
+C:\Users\angel\Documents\Portafolio\landingPersonal\landingPersonal\bin\landingPersonal.dll
+C:\Users\angel\Documents\Portafolio\landingPersonal\landingPersonal\bin\landingPersonal.pdb
+C:\Users\angel\Documents\Portafolio\landingPersonal\landingPersonal\bin\Antlr3.Runtime.dll
+C:\Users\angel\Documents\Portafolio\landingPersonal\landingPersonal\bin\EntityFramework.dll
+C:\Users\angel\Documents\Portafolio\landingPersonal\landingPersonal\bin\EntityFramework.SqlServer.dll
+C:\Users\angel\Documents\Portafolio\landingPersonal\landingPersonal\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\angel\Documents\Portafolio\landingPersonal\landingPersonal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\angel\Documents\Portafolio\landingPersonal\landingPersonal\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\angel\Documents\Portafolio\landingPersonal\landingPersonal\bin\Microsoft.Owin.dll
+C:\Users\angel\Documents\Portafolio\landingPersonal\landingPersonal\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\angel\Documents\Portafolio\landingPersonal\landingPersonal\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\angel\Documents\Portafolio\landingPersonal\landingPersonal\bin\Microsoft.Owin.Security.dll
+C:\Users\angel\Documents\Portafolio\landingPersonal\landingPersonal\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\angel\Documents\Portafolio\landingPersonal\landingPersonal\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\angel\Documents\Portafolio\landingPersonal\landingPersonal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\angel\Documents\Portafolio\landingPersonal\landingPersonal\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\angel\Documents\Portafolio\landingPersonal\landingPersonal\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\angel\Documents\Portafolio\landingPersonal\landingPersonal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\angel\Documents\Portafolio\landingPersonal\landingPersonal\bin\Newtonsoft.Json.dll
+C:\Users\angel\Documents\Portafolio\landingPersonal\landingPersonal\bin\Owin.dll
+C:\Users\angel\Documents\Portafolio\landingPersonal\landingPersonal\bin\System.Web.Helpers.dll
+C:\Users\angel\Documents\Portafolio\landingPersonal\landingPersonal\bin\System.Web.Mvc.dll
+C:\Users\angel\Documents\Portafolio\landingPersonal\landingPersonal\bin\System.Web.Optimization.dll
+C:\Users\angel\Documents\Portafolio\landingPersonal\landingPersonal\bin\System.Web.Razor.dll
+C:\Users\angel\Documents\Portafolio\landingPersonal\landingPersonal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\angel\Documents\Portafolio\landingPersonal\landingPersonal\bin\System.Web.WebPages.dll
+C:\Users\angel\Documents\Portafolio\landingPersonal\landingPersonal\bin\System.Web.WebPages.Razor.dll
+C:\Users\angel\Documents\Portafolio\landingPersonal\landingPersonal\bin\WebGrease.dll
+C:\Users\angel\Documents\Portafolio\landingPersonal\landingPersonal\bin\System.Web.Helpers.xml
+C:\Users\angel\Documents\Portafolio\landingPersonal\landingPersonal\bin\System.Web.Mvc.xml
+C:\Users\angel\Documents\Portafolio\landingPersonal\landingPersonal\bin\System.Web.Optimization.xml
+C:\Users\angel\Documents\Portafolio\landingPersonal\landingPersonal\bin\System.Web.Razor.xml
+C:\Users\angel\Documents\Portafolio\landingPersonal\landingPersonal\bin\System.Web.WebPages.xml
+C:\Users\angel\Documents\Portafolio\landingPersonal\landingPersonal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\angel\Documents\Portafolio\landingPersonal\landingPersonal\bin\System.Web.WebPages.Razor.xml
+C:\Users\angel\Documents\Portafolio\landingPersonal\landingPersonal\bin\Newtonsoft.Json.xml
+C:\Users\angel\Documents\Portafolio\landingPersonal\landingPersonal\bin\Antlr3.Runtime.pdb
+C:\Users\angel\Documents\Portafolio\landingPersonal\landingPersonal\bin\EntityFramework.xml
+C:\Users\angel\Documents\Portafolio\landingPersonal\landingPersonal\bin\EntityFramework.SqlServer.xml
+C:\Users\angel\Documents\Portafolio\landingPersonal\landingPersonal\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\angel\Documents\Portafolio\landingPersonal\landingPersonal\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\angel\Documents\Portafolio\landingPersonal\landingPersonal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\angel\Documents\Portafolio\landingPersonal\landingPersonal\bin\Microsoft.Owin.xml
+C:\Users\angel\Documents\Portafolio\landingPersonal\landingPersonal\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\angel\Documents\Portafolio\landingPersonal\landingPersonal\bin\Microsoft.Owin.Security.xml
+C:\Users\angel\Documents\Portafolio\landingPersonal\landingPersonal\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\angel\Documents\Portafolio\landingPersonal\landingPersonal\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\angel\Documents\Portafolio\landingPersonal\landingPersonal\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\angel\Documents\Portafolio\landingPersonal\landingPersonal\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\angel\Documents\Portafolio\landingPersonal\landingPersonal\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\angel\Documents\Portafolio\landingPersonal\landingPersonal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\angel\Documents\Portafolio\landingPersonal\landingPersonal\obj\Debug\landingPersonal.csprojResolveAssemblyReference.cache
+C:\Users\angel\Documents\Portafolio\landingPersonal\landingPersonal\obj\Debug\landingPersonal.dll
+C:\Users\angel\Documents\Portafolio\landingPersonal\landingPersonal\obj\Debug\landingPersonal.pdb
+C:\E Goal\landingPersonal\landingPersonal\bin\landingPersonal.dll.config
+C:\E Goal\landingPersonal\landingPersonal\bin\landingPersonal.dll
+C:\E Goal\landingPersonal\landingPersonal\bin\landingPersonal.pdb
+C:\E Goal\landingPersonal\landingPersonal\bin\Antlr3.Runtime.dll
+C:\E Goal\landingPersonal\landingPersonal\bin\EntityFramework.dll
+C:\E Goal\landingPersonal\landingPersonal\bin\EntityFramework.SqlServer.dll
+C:\E Goal\landingPersonal\landingPersonal\bin\Microsoft.AspNet.Identity.Core.dll
+C:\E Goal\landingPersonal\landingPersonal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\E Goal\landingPersonal\landingPersonal\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\E Goal\landingPersonal\landingPersonal\bin\Microsoft.Owin.dll
+C:\E Goal\landingPersonal\landingPersonal\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\E Goal\landingPersonal\landingPersonal\bin\Microsoft.Owin.Security.Cookies.dll
+C:\E Goal\landingPersonal\landingPersonal\bin\Microsoft.Owin.Security.dll
+C:\E Goal\landingPersonal\landingPersonal\bin\Microsoft.Owin.Security.Facebook.dll
+C:\E Goal\landingPersonal\landingPersonal\bin\Microsoft.Owin.Security.Google.dll
+C:\E Goal\landingPersonal\landingPersonal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\E Goal\landingPersonal\landingPersonal\bin\Microsoft.Owin.Security.OAuth.dll
+C:\E Goal\landingPersonal\landingPersonal\bin\Microsoft.Owin.Security.Twitter.dll
+C:\E Goal\landingPersonal\landingPersonal\bin\Microsoft.Web.Infrastructure.dll
+C:\E Goal\landingPersonal\landingPersonal\bin\Newtonsoft.Json.dll
+C:\E Goal\landingPersonal\landingPersonal\bin\Owin.dll
+C:\E Goal\landingPersonal\landingPersonal\bin\System.Web.Helpers.dll
+C:\E Goal\landingPersonal\landingPersonal\bin\System.Web.Mvc.dll
+C:\E Goal\landingPersonal\landingPersonal\bin\System.Web.Optimization.dll
+C:\E Goal\landingPersonal\landingPersonal\bin\System.Web.Razor.dll
+C:\E Goal\landingPersonal\landingPersonal\bin\System.Web.WebPages.Deployment.dll
+C:\E Goal\landingPersonal\landingPersonal\bin\System.Web.WebPages.dll
+C:\E Goal\landingPersonal\landingPersonal\bin\System.Web.WebPages.Razor.dll
+C:\E Goal\landingPersonal\landingPersonal\bin\WebGrease.dll
+C:\E Goal\landingPersonal\landingPersonal\bin\Antlr3.Runtime.pdb
+C:\E Goal\landingPersonal\landingPersonal\bin\EntityFramework.xml
+C:\E Goal\landingPersonal\landingPersonal\bin\EntityFramework.SqlServer.xml
+C:\E Goal\landingPersonal\landingPersonal\bin\Microsoft.AspNet.Identity.Core.xml
+C:\E Goal\landingPersonal\landingPersonal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\E Goal\landingPersonal\landingPersonal\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\E Goal\landingPersonal\landingPersonal\bin\Microsoft.Owin.xml
+C:\E Goal\landingPersonal\landingPersonal\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\E Goal\landingPersonal\landingPersonal\bin\Microsoft.Owin.Security.xml
+C:\E Goal\landingPersonal\landingPersonal\bin\Microsoft.Owin.Security.Cookies.xml
+C:\E Goal\landingPersonal\landingPersonal\bin\Microsoft.Owin.Security.OAuth.xml
+C:\E Goal\landingPersonal\landingPersonal\bin\Newtonsoft.Json.xml
+C:\E Goal\landingPersonal\landingPersonal\bin\System.Web.Helpers.xml
+C:\E Goal\landingPersonal\landingPersonal\bin\System.Web.Mvc.xml
+C:\E Goal\landingPersonal\landingPersonal\bin\System.Web.Optimization.xml
+C:\E Goal\landingPersonal\landingPersonal\bin\System.Web.Razor.xml
+C:\E Goal\landingPersonal\landingPersonal\bin\System.Web.WebPages.xml
+C:\E Goal\landingPersonal\landingPersonal\bin\System.Web.WebPages.Deployment.xml
+C:\E Goal\landingPersonal\landingPersonal\bin\System.Web.WebPages.Razor.xml
+C:\E Goal\landingPersonal\landingPersonal\bin\Microsoft.Owin.Security.Facebook.xml
+C:\E Goal\landingPersonal\landingPersonal\bin\Microsoft.Owin.Security.Google.xml
+C:\E Goal\landingPersonal\landingPersonal\bin\Microsoft.Owin.Security.Twitter.xml
+C:\E Goal\landingPersonal\landingPersonal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\E Goal\landingPersonal\landingPersonal\obj\Debug\landingPersonal.csprojResolveAssemblyReference.cache
+C:\E Goal\landingPersonal\landingPersonal\obj\Debug\landingPersonal.dll
+C:\E Goal\landingPersonal\landingPersonal\obj\Debug\landingPersonal.pdb
